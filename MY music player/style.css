@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; font-family: sans-serif;
+}
+
+h1{
+    text-align: center; 
+    font-size: 1.8rem;
+    color: palevioletred;
+    padding: 30px;
+
+}
+
+main{
+    width: 90%;
+    height: 550px;
+    margin: auto;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+div{
+    width: 30%;
+    height: 30%;
+    border: 1px solid red;
+    box-shadow: 2px 2px 5px gray ;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.a{
+    background-image: url('rutik.image/img1.jpg'); 
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+}
+
+.b{
+    background-image: url('rutik.image/img2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.c{
+    background-image: url('rutik.image/img3.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.d{
+    background-image: url('rutik.image/img4.jpg'); 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.e{
+    background-image: url('rutik.image/img5.jpg'); 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.f{
+    background-image: url('rutik.image/img6.jpg'); 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.g{
+    background-image: url('rutik.image/img7.jpg'); 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.h{
+    background-image: url('rutik.image/img8.jpg'); 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.i{
+    background-image: url('rutik.image/img9.jpg'); 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
